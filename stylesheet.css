@@ -1,0 +1,24 @@
+body{
+    background-color: #f4daab;
+}
+
+.header {
+    padding: 10px;
+    text-align: center;
+    color: #271f1fe6;
+    font-size: 30px;
+  }
+.info{
+    padding: 20px;
+    text-align: center;
+    color: #271f1fe6;
+    font-size: 22px;
+    max-width: 50%;
+    margin: 0 auto;
+}
+.TTTimg{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%ß;
+}
